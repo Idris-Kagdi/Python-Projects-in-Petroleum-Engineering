@@ -1,0 +1,4 @@
+Material Balance for Gascap Drive Reservoir:
+(Fundamentals of Reservoir Engineering - L.P. Dake - Exercise 3.4 page 90)
+The gascap reservoir is estimated, from volumetric calculations, to have had an initial oil volume N of 115 × 106 stb. The cumulative oil production Np and cumulative gas oil ratio Rp are listed in given data, as functions of the average reservoir pressure, over the first few years of production. (Also listed are the relevant PVT data under the assumption that, for this particular application, pi = pb = 3330 psia).
+The size of the gascap is uncertain with the best estimate, based on geological information, giving the value of m = 0.4. Is this figure confirmed by the production and pressure history? If not, what is the correct value of m?
